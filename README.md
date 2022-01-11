@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IrvinA
-- 👀 I’m interested in many things currently learning coding to better secure my future and narration cause reasons...
-- 🌱 I’m currently learning coding, as ive previously mentioned...
-- 💞️ I’m looking to collaborate on im not sure yet theres gonna be alot of first for me this time around so lots of things...
-- 📫 How to reach me: DM on slack, honestly not the quickest way but I definitely get more and more used to checking my messages!
+- 👀 I’m interested in many things, especially if its horror themed and im looking into narration or voice over work cause ive been told I have a good voice
+- 🌱 I’m currently learning coding to give me more options for my future
+- 💞️ I’m looking to collaborate on almost any project that I find fun
+- 📫 How to reach me: Email me at arevalosirvin@gmail.com, honestly not the quickest way but I definitely get more and more used to checking my messages!
 
 <!---
 IrvinA/IrvinA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
